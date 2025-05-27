@@ -65,7 +65,8 @@ the walmart dataset contains the following fields:
 
 ## 📷 dashboard preview
 
-![image](https://github.com/user-attachments/assets/d6fdf6bf-3eda-4796-b8f3-d3ca403a5671)
+![image](https://github.com/user-attachments/assets/880fca76-b63b-4d30-bc7c-ccd6fa7ec328)
+
 ![image](https://github.com/user-attachments/assets/0078a472-a142-4d20-9ca8-df9cb06e9efc)
 
 
